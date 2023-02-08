@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Adrienne Broaddus, Elizabeth Wolfe, Jason Hanna",
+            "title": "Damar Hamlin shows 'signs of improvement' while still in ICU in critical condition, Bills say, after mid-game cardiac arrest - CNN",
+            "description": "After suffering a cardiac arrest mid-game on Monday, Buffalo Bills safety Damar Hamlin remains sedated on a ventilator as doctors work toward getting him to breathe on his own, according to an update from the player's uncle.",
+            "url": "https://www.cnn.com/2023/01/04/football/damar-hamlin-collapse-bills-status-wednesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230103122500-03-damar-hamlin-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-05T04:19:00Z",
+            "content": "After suffering a cardiac arrest during a game on Monday, Buffalo Bills safety Damar Hamlin remains in critical condition in intensive care, with signs of improvement noted over the past day, his tea… [+7657 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "fox13now.com"
+            },
+            "author": "Jeff Tavss",
+            "title": "Bodies of 3 adults, 5 minors found inside Enoch City home - FOX 13 News Utah",
+            "description": "Eight bodies were found inside an Enoch City home Wednesday; all suffering from apparent gunshot wounds, police say.",
+            "url": "https://www.fox13now.com/news/crime/bodies-of-3-adults-5-minors-found-inside-enoch-city-home",
+            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/55130c0/2147483647/strip/true/crop/889x467+0+17/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F23f%2Fef205c0e5ea14d77944cbd6904335118%2F23faf7510a984397820844740a4b2d6f%2Fposter_8c787f222d5646a299dd81a52cfe24c0.jpeg",
+            "publishedAt": "2023-01-05T04:18:45Z",
+            "content": "ENOCH, Utah Eight bodies were found inside an Enoch City home Wednesday; all suffering from gunshot wounds, police say.\r\nEnoch City officials said three adults and five minors were among those found … [+1705 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Mike Florio",
+            "title": "Momentum builds for cancellation of Bills-Bengals game - NBC Sports",
+            "description": "The NFL is moving toward solving the problem arising from the postponement of the Week 17 game between the Bills and Bengals. Current momentum is pointing toward not resuming the Bills-Bengals game, and declaring it a no contest. Playoff seeding then would be…",
+            "url": "https://profootballtalk.nbcsports.com/2023/01/04/momentum-builds-for-cancelation-of-bills-bengals-game/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/11/GettyImages-1434568660-e1668537761139.jpg",
+            "publishedAt": "2023-01-05T03:38:00Z",
+            "content": "The NFL is moving toward solving the problem arising from the postponement of the Week 17 game between the Bills and Bengals. \r\nCurrent momentum is pointing toward not resuming the Bills-Bengals game… [+1584 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "California doctor who drove Tesla off cliff to be charged with attempted murder - Reuters",
+            "description": "A doctor whom police say intentionally drove his Tesla off a California cliff - injuring his two children, his wife and himself - will face attempted murder and child abuse charges when released from a hospital where he was in stable condition on Wednesday.",
+            "url": "https://www.reuters.com/legal/california-doctor-who-drove-tesla-off-cliff-be-charged-with-attempted-murder-2023-01-04/",
+            "urlToImage": "https://www.reuters.com/resizer/SoaD-njzEy7Hc4Us79vxDgdkUIE=/1024x536/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/M5YE4EIDL5P2NIYUQGXGS7O6YI.jpg",
+            "publishedAt": "2023-01-05T03:33:00Z",
+            "content": "Jan 4 (Reuters) - A doctor whom police say intentionally drove his Tesla off a California cliff - injuring his two children, his wife and himself - will face attempted murder and child abuse charges … [+2370 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "AMD Ryzen 7950X3D, 7900X3D, & 7800X3D Specs, Lower CPU Prices, & Laptop RDNA3 - Gamers Nexus",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0yJZjegRDpA",
+            "urlToImage": null,
+            "publishedAt": "2023-01-05T03:21:59Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Pope Benedict XVI: Around 200,000 attend lying in state - BBC",
+            "description": "His funeral is to take place in front of St Peter's Basilica at the Vatican on Thursday.",
+            "url": "https://www.bbc.com/news/world-europe-64170755",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4858/production/_128202581_stateepa.jpg",
+            "publishedAt": "2023-01-05T02:55:31Z",
+            "content": "Almost 200,000 people paid homage to former Pope Benedict XVI during his lying in state over the last three days, the Vatican says.\r\nHis body has been sealed in a coffin ahead of his funeral on Thurs… [+3529 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/andrew-tarantola",
+            "title": "Sony Honda Mobility officially unveils its Afeela EV concept at CES 2023 - Engadget",
+            "description": "Less than a year after being announced, Sony Honda Mobility took to the CES 2023 stage to officially unveil its first prototype.",
+            "url": "https://www.engadget.com/sony-honda-mobility-officially-unveils-its-collaborative-ev-concept-first-look-ces-2023-015133456.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/445e7de0-8ca1-11ed-8fd8-172d56c1be73",
+            "publishedAt": "2023-01-05T01:52:48Z",
+            "content": "In March of 2022, Honda and Sony shocked the world by announcing that not only were the venerable electronics and automotive manufacturers were teaming up, they were doing so to build a battery elect… [+509 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Isidore",
+            "title": "GM is the top car seller in America, retaking the title from Toyota - CNN",
+            "description": "One year after losing the title it held for nearly a century as the top car seller in America, General Motors is back on top.",
+            "url": "https://www.cnn.com/2023/01/04/business/car-sales/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230104104801-chevy-dealership-072518.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-05T01:40:00Z",
+            "content": "One year after losing the title it held for nearly a century as the top car seller in America, General Motors is back on top. \r\nGM\r\n(GM) reported Wednesday US sales of 2.3 million vehicles. Strong fo… [+3413 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lauren del Valle, Jean Casarez",
+            "title": "Idaho quadruple murder suspect on flight back to the state after waiving extradition from Pennsylvania - CNN",
+            "description": "The man accused of killing four University of Idaho students in November is on a flight back to the state, a source familiar with the case said Wednesday.",
+            "url": "https://www.cnn.com/2023/01/04/us/idaho-killings-suspect-bryan-kohberger-wednesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230104102319-05-idaho-murder-suspect-kohberger-court-0103-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-05T01:38:00Z",
+            "content": "Bryan Kohberger, the man accused of killing four University of Idaho students in November, has arrived back in Idaho to face murder charges after waiving extradition from his home state of Pennsylvan… [+2369 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Lisa Mascaro",
+            "title": "Live updates: McCarthy's bid for House speaker continues - The Associated Press - en Español",
+            "description": "WASHINGTON (AP) — House Republicans flailed through a long second day of fruitless balloting Wednesday, unable to either elect their leader Kevin McCarthy  as House speaker or come up with a new strategy to end the political chaos  that has tarnished the star…",
+            "url": "https://apnews.com/article/house-speaker-vote-updates-669e23dc963da9579ab10e4b3da78911",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/2a896d9314934f75a5626e61cb3addc8/3000.webp",
+            "publishedAt": "2023-01-05T01:30:00Z",
+            "content": "WASHINGTON (AP) House Republicans flailed through a long second day of fruitless balloting Wednesday, unable to either elect their leader Kevin McCarthy as House speaker or come up with a new strateg… [+7086 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Dana Mattioli, Jessica Toonkel",
+            "title": "Amazon Layoffs to Hit Over 18,000 Workers, the Most in Recent Tech Wave - WSJ - The Wall Street Journal",
+            "description": "Cuts focused on the company’s corporate staff exceed earlier projection",
+            "url": "https://www.wsj.com/articles/amazon-to-lay-off-over-17-000-workers-more-than-first-planned-11672874304",
+            "urlToImage": "https://images.wsj.net/im-697169/social",
+            "publishedAt": "2023-01-05T01:29:00Z",
+            "content": "Amazon.com Inc.s layoffs will affect more than 18,000 employees, the highest reduction tally revealed in the past year at a major technology company as the industry pares back amid economic uncertain… [+320 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "MJ Lee, Kevin Liptak, Sam Fossum",
+            "title": "Biden and McConnell show off their bipartisan bonafides in Kentucky - CNN",
+            "description": "A rare scene unfolded Wednesday in Covington, Kentucky: President Joe Biden stood alongside Senate Minority Leader Mitch McConnell, as the two men promoted a major bipartisan legislative accomplishment they achieved together.",
+            "url": "https://www.cnn.com/2023/01/04/politics/biden-kentucky-infrastructure-wednesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230104132101-02-biden-kentucky-0104.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-05T00:50:00Z",
+            "content": "A rare scene unfolded Wednesday in Covington, Kentucky: President Joe Biden stood alongside Senate Minority Leader Mitch McConnell, as the two men promoted a major bipartisan legislative accomplishme… [+5367 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neurosciencenews.com"
+            },
+            "author": "Neuroscience News",
+            "title": "Cancer Vaccine to Simultaneously Kill and Prevent Brain Cancer Developed - Neuroscience News",
+            "description": "A new stem cell therapy approach eliminates established brain tumors and provides long-term immunity, training the immune system to prevent cancer from returning.",
+            "url": "https://neurosciencenews.com/brain-cancer-vaccine-22162/",
+            "urlToImage": "https://neurosciencenews.com/files/2023/01/cancer-vaccine-neurosciences.jpg",
+            "publishedAt": "2023-01-05T00:48:58Z",
+            "content": "Summary: A new stem cell therapy approach eliminates established brain tumors and provides long-term immunity, training the immune system to prevent cancer from returning.\r\nSource: Brigham and Women’… [+6213 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Gio Reyna’s parents flagged Gregg Berhalter’s domestic dispute to US Soccer - The Guardian",
+            "description": "The US men’s soccer team has been plunged into public turmoil over a 31-year-old incident involving Gregg Berhalter and his wife",
+            "url": "https://www.theguardian.com/football/2023/jan/04/reyna-family-us-soccer-gregg-berhalter-domestic-incident",
+            "urlToImage": "https://i.guim.co.uk/img/media/1c1b0129b5cb2f9e806b9f46a7e5162a857c7ced/0_194_2193_1315/master/2193.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=49594e059d2b0cab7bc5186583b2f0d7",
+            "publishedAt": "2023-01-05T00:46:00Z",
+            "content": "The US mens soccer team was plunged into public turmoil Wednesday when the Reyna family said it notified the US Soccer Federation of a decades-old incident involving Gregg Berhalter and his wife in r… [+6437 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Jeff Passan, Joon Lee",
+            "title": "Sources - Rafael Devers, Red Sox finalizing 11-year, $331M extension - ESPN",
+            "description": "Third baseman Rafael Devers and the Red Sox are finalizing an 11-year, $331 million contract extension, sources told ESPN, a deal that constitutes the longest and largest guarantee ever given by the franchise.",
+            "url": "https://www.espn.com/mlb/story/_/id/35380017/rafael-devers-boston-red-sox-finalizing-11-year-331m-extension",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1122%2Fr1095060_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-01-05T00:27:26Z",
+            "content": "Third baseman Rafael Devers and the Boston Red Sox are finalizing an 11-year, $331 million contract extension, sources told ESPN, a deal that will keep the 26-year-old star from reaching free agency … [+4816 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Ian Mohr",
+            "title": "Ashley Olsen marries artist Louis Eisner in secret wedding ceremony - Page Six",
+            "description": "We hear that only around 50 guests attended the nuptials on Dec. 28 and while specifics are unclear, one insider told Page Six that “it went late.”",
+            "url": "https://pagesix.com/2023/01/04/ashley-olsen-marries-artist-louis-eisner-in-secret-ceremony/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/01/Ashley-Olsen-marries-Louis-eisner-secret-wedding0012.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2023-01-05T00:20:00Z",
+            "content": "TV star turned high fashion mogul Ashley Olsen married her longtime beau, artist Louis Eisner in a hush-hush ceremony at a private Bel-Air home last week, sources exclusively told Page Six. \r\nWe hear… [+1645 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Martin Pengelly",
+            "title": "Prince Harry details physical attack by brother William in new book - The Guardian",
+            "description": "Exclusive: Harry writes in new autobiography Spare that William ‘knocked me to the floor’ during confrontation in London in 2019",
+            "url": "https://www.theguardian.com/books/2023/jan/04/prince-harry-william-physical-attack-2019-meghan-spare-book",
+            "urlToImage": "https://i.guim.co.uk/img/media/6902e65680b5108f76f5ecdc79f69705ba1da8df/0_48_3500_2099/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=14313cc47374e1e41c143b7c1184d9fc",
+            "publishedAt": "2023-01-05T00:17:00Z",
+            "content": "In his highly anticipated autobiography, Spare, Prince Harry recounts what he says was a physical attack by his brother, William, now Prince of Wales, as their relationship fell apart over the younge… [+5778 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Scharon Harding",
+            "title": "Asus brings glasses-free 3D to OLED laptops - Ars Technica",
+            "description": "High-specced workstations target professionals who want to work with 3D.",
+            "url": "https://arstechnica.com/gadgets/2023/01/asus-new-16-inch-workstation-laptops-have-3d-oled-screens/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/vivobook-main-1-760x380.jpg",
+            "publishedAt": "2023-01-04T23:18:56Z",
+            "content": "Enlarge/ Asus' depiction of 3D mode on the Vivobook Pro 16X 3D OLED laptop. \r\n14 with 0 posters participating\r\nDuring the CES 2023 in Las Vegas today, Asus announced an upcoming feature that allows u… [+4082 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Coinbase pays $100 million settlement, FTX's Robinhood shares under investigation - Yahoo Finance",
+            "description": "#coinbase #FTX #Robinhood #yahoofinance Yahoo Finance’s David Hollerith joins the Live show to report that Coinbase has reached a $100 million settlement wit...",
+            "url": "https://www.youtube.com/watch?v=UklTxHuZ8Bk",
+            "urlToImage": "https://i.ytimg.com/vi/UklTxHuZ8Bk/maxresdefault.jpg",
+            "publishedAt": "2023-01-04T22:32:28Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Eileen Reslen",
+            "title": "Gruesome details of Jeremy Renner’s snowplow accident revealed in 911 call: report - Page Six",
+            "description": "The “Hurt Locker” star, 51, was reportedly heard moaning in the background of the call as he was having “extreme difficulty” breathing after the freak accident.",
+            "url": "https://pagesix.com/2023/01/04/jeremy-renners-snowplow-accident-911-call-revealed/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/01/jeremy-renner-snowplow-accident.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2023-01-04T22:20:00Z",
+            "content": "Jeremy Renner was completely crushed after a snowplow ran him over earlier this week, according to a 911 call log reportedly obtained by TMZ on Wednesday.\r\nThe Hurt Locker star, 51, was reportedly he… [+1715 chars]"
+        }
+    ]
+}
